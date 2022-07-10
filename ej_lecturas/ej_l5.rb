@@ -2,15 +2,10 @@
 # las instancias son privadas
 # no pueden ser accedidas desde fuera de la clase 
 
-class Mascota 
-    def initialize(nuevo_nombre)
-        @nombre = nuevo_nombre
+class Caja 
+    attr_accessor :ancho
+end 
 
-    end
-end
-
-# instanciando
-m1 = Mascota.new("shadow")
-m1.nombre 
-
-# error
+c= Caja.new 
+print c.ancho = 2
+print c.ancho 

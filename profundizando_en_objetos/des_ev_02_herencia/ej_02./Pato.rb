@@ -1,0 +1,2 @@
+class Pato < Ave
+end

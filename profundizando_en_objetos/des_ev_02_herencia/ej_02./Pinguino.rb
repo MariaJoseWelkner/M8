@@ -1,0 +1,2 @@
+class Pinguino < Ave
+end

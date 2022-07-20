@@ -1,0 +1,2 @@
+class Mariposa < Insecto
+end

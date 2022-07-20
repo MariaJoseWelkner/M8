@@ -1,0 +1,2 @@
+class Vaca < Mamifero
+end

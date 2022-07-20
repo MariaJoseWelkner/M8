@@ -1,0 +1,2 @@
+class Abeja < Insecto
+end

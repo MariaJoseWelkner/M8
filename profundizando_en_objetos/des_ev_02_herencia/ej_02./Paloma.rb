@@ -1,0 +1,2 @@
+class Paloma < Ave
+end
